@@ -1,18 +1,7 @@
-# reeborg2016
-CP 課程參考用的網際程式系統
+# 2016fllcp
 
-https://mdecourse.github.io/reeborg2016
+虎尾科技大學機械設計工程系 2016 FALL 計算機程式課程倉儲
 
-參考資料:
+http://mdecourse.github.io/2016fallcp
 
-http://wiki.mde.tw
-
-https://2014cda-mdenfu.rhcloud.com
-
-https://2014cdb-mdenfu.rhcloud.com
-
-https://2014c2-mdenfu.rhcloud.com
-
-http://www.cmsimply.com/get_page?heading=Reeborg%20%E6%A9%9F%E5%99%A8%E4%BA%BA
-
-
+http://mdecourse.github.io/2016fallcp/blog
